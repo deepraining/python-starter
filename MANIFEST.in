@@ -1,0 +1,7 @@
+include README.md
+include CHANGELOG.md
+include tox.ini
+include Pipfile
+# include Pipfile.lock
+graft docs
+graft tests
